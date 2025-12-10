@@ -10,5 +10,6 @@ pip install PyQt5
 
 REM Hinweis: Die anderen Module (sys, random, threading, datetime) sind Teil der Standardbibliothek
 echo.
-echo Alle erforderlichen Module wurden installiert.
+echo DONE INSTALLING YOU CAN CLOSE THIS PAGE :3
 pause
+
